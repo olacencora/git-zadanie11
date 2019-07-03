@@ -1,0 +1,19 @@
+td, th
+{
+    border: 1px solid black;
+}
+#tabela
+{
+    border: 1px solid black;
+}
+.tr_top th
+{
+    text-align: left;
+    padding: 3px;
+    font-weight: bold;
+}
+.tr_rest td
+{
+    text-align: left;
+    padding: 3px;
+}
